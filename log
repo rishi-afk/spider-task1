@@ -1,0 +1,42 @@
+commit 6d9a0db47d16c0d1c52507ac2b0436be8b5183c5
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:17:04 2023 +0530
+
+    added: commit6_spider.txt
+
+commit 06ef42860c39ece4af5c842ee8d84dc07b6a2c29
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:16:19 2023 +0530
+
+    added: commit5_spider.txt
+
+commit 2d6fee14447343cfea2b154318083b00b79a323f
+Merge: 00a5888 b9dbaac
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:13:20 2023 +0530
+
+    Merge branch 'develop'
+
+commit b9dbaac9a2f6213aeef3ba08bcc9b277cf4234bd
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:12:46 2023 +0530
+
+    added: commit4_develop.txt
+
+commit 00a58883e3016a957e5839df524e3c8c22a36411
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:11:20 2023 +0530
+
+    added: commit3_main.txt
+
+commit 0da926440cde8a5f478f9cad61e611524c3ef268
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:10:22 2023 +0530
+
+    added: commit2_develop.txt
+
+commit 1f61afbd3b12080bb1bf90026064ed7c8ad306c9
+Author: Rishikesh Bhakare <bhakarerishi@gmail.com>
+Date:   Tue Jan 10 21:08:35 2023 +0530
+
+    init: first commit
